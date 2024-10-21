@@ -3,6 +3,8 @@ In this project, we developed a multilingual question-answering system for the N
 Multilingual QA Project Overview
 This repository documents a comprehensive approach to tackling multilingual question answering (QA) tasks using a structured, week-by-week methodology. The project spans six weeks and focuses on three languages—Arabic, Bengali, and Indonesian—addressing both binary classification and span-based QA tasks.
 
+Models in Weeks 38 and 39 can be downloaded using the following link: https://drive.google.com/drive/folders/1HQPymn96mVRq9lEiw8dNhYfWkd7azkBy?usp=drive_link
+
 ## Week 36: Dataset Exploration and Basic Data Analysis
 - Familiarized with the dataset, downloaded and explored the columns.
 - Summarized key data statistics for the training and validation sets in all three languages.
