@@ -5,6 +5,8 @@ This repository documents a comprehensive approach to tackling multilingual ques
 
 Models in Weeks 38 and 39 can be downloaded using the following link: https://drive.google.com/drive/folders/1HQPymn96mVRq9lEiw8dNhYfWkd7azkBy?usp=drive_link
 
+The written report: https://drive.google.com/file/d/1f0e-PqwvxybKZWZmabaNokRKBlbejtCz/view?usp=drive_link  
+
 ## Week 36: Dataset Exploration and Basic Data Analysis
 - Familiarized with the dataset, downloaded and explored the columns.
 - Summarized key data statistics for the training and validation sets in all three languages.
